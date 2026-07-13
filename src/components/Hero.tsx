@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion';
 import { ArrowDown, BookOpen, Mail, Award, GraduationCap } from 'lucide-react';
-import { stats } from '../data/portfolio';
+import { stats, personal } from "../data/portfolio";
 import { useEffect, useRef, useState } from 'react';
 
-const profilePhoto = '/rajeswarimam.png';
+const profilePhoto = personal.image
 
 function CountUp({ end, suffix }: { end: number; suffix: string }) {
   const [count, setCount] = useState(0);
