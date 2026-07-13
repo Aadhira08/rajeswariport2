@@ -4,7 +4,6 @@
    name: "Dr. P. Rajeswari",
    image: profileImg,
    shortName: "Dr. Rajeswari",
-   image: profileImg,
   title: "Associate Professor & Head",
   department: "Department of Electronics & Communication Engineering",
   institution: "Dhanalakshmi Srinivasan Engineering College (Autonomous), Perambalur",
