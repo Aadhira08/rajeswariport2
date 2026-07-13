@@ -1,9 +1,9 @@
-  import profileImg from '../assets/rajeswarimam.png';
+import profileImg from '../assets/rajeswarimam.png';
  
   export const personal = {
    name: "Dr. P. Rajeswari",
    image: profileImg,
-   shortName: "Dr. Rajeswari",
+  shortName: "Dr. Rajeswari",
   title: "Associate Professor & Head",
   department: "Department of Electronics & Communication Engineering",
   institution: "Dhanalakshmi Srinivasan Engineering College (Autonomous), Perambalur",
